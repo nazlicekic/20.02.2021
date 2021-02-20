@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NazCoderTekrar", "NazCoderTekrar\NazCoderTekrar.csproj", "{389ACDC1-853B-43DE-8CB1-4D7946140240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{389ACDC1-853B-43DE-8CB1-4D7946140240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389ACDC1-853B-43DE-8CB1-4D7946140240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389ACDC1-853B-43DE-8CB1-4D7946140240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389ACDC1-853B-43DE-8CB1-4D7946140240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E747CBCA-5546-4878-B1D5-CF9D8C43CD78}
+	EndGlobalSection
+EndGlobal

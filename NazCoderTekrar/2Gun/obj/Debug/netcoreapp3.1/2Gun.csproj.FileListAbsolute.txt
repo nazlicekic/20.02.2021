@@ -1,0 +1,13 @@
+D:\NazCoderTekrar\2Gun\bin\Debug\netcoreapp3.1\2Gun.exe
+D:\NazCoderTekrar\2Gun\bin\Debug\netcoreapp3.1\2Gun.deps.json
+D:\NazCoderTekrar\2Gun\bin\Debug\netcoreapp3.1\2Gun.runtimeconfig.json
+D:\NazCoderTekrar\2Gun\bin\Debug\netcoreapp3.1\2Gun.runtimeconfig.dev.json
+D:\NazCoderTekrar\2Gun\bin\Debug\netcoreapp3.1\2Gun.dll
+D:\NazCoderTekrar\2Gun\bin\Debug\netcoreapp3.1\2Gun.pdb
+D:\NazCoderTekrar\2Gun\obj\Debug\netcoreapp3.1\2Gun.csprojAssemblyReference.cache
+D:\NazCoderTekrar\2Gun\obj\Debug\netcoreapp3.1\2Gun.AssemblyInfoInputs.cache
+D:\NazCoderTekrar\2Gun\obj\Debug\netcoreapp3.1\2Gun.AssemblyInfo.cs
+D:\NazCoderTekrar\2Gun\obj\Debug\netcoreapp3.1\2Gun.csproj.CoreCompileInputs.cache
+D:\NazCoderTekrar\2Gun\obj\Debug\netcoreapp3.1\2Gun.dll
+D:\NazCoderTekrar\2Gun\obj\Debug\netcoreapp3.1\2Gun.pdb
+D:\NazCoderTekrar\2Gun\obj\Debug\netcoreapp3.1\2Gun.genruntimeconfig.cache
